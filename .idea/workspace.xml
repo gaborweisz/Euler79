@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6acfa57e-effe-406f-88a8-ce59eb0a9deb" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/challenge56/Solver56.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/challenge56/Solver56Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/challenge57/Main57.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/challenge57/Solver57.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/challenge56/Main56.java" afterPath="$PROJECT_DIR$/src/com/challenge56/Main56.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -58,7 +57,27 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Solver56.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Main57.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/challenge57/Main57.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="295">
+              <caret line="18" column="111" lean-forward="false" selection-start-line="18" selection-start-column="68" selection-end-line="18" selection-end-column="111" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Solver57.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/challenge57/Solver57.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="10" column="55" lean-forward="false" selection-start-line="10" selection-start-column="55" selection-end-line="10" selection-end-column="55" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Solver56.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/challenge56/Solver56.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="363">
@@ -112,55 +131,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Collectors.java" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/util/stream/Collectors.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5865">
-              <caret line="411" column="4" lean-forward="false" selection-start-line="411" selection-start-column="4" selection-end-line="411" selection-end-column="4" />
-              <folding>
-                <element signature="e#0#73414#0" expanded="false" />
-                <element signature="imports" expanded="false" />
-                <element signature="e#5034#5035#0" expanded="false" />
-                <element signature="e#5067#5068#0" expanded="false" />
-                <element signature="e#6418#6419#0" expanded="false" />
-                <element signature="e#6460#6461#0" expanded="false" />
-                <element signature="e#6519#6520#0" expanded="false" />
-                <element signature="e#6558#6559#0" expanded="false" />
-                <element signature="e#6623#6624#0" expanded="false" />
-                <element signature="e#6662#6663#0" expanded="false" />
-                <element signature="e#6724#6725#0" expanded="false" />
-                <element signature="e#6763#6764#0" expanded="false" />
-                <element signature="e#6838#6839#0" expanded="false" />
-                <element signature="e#6884#6885#0" expanded="false" />
-                <element signature="e#17475#17476#0" expanded="false" />
-                <element signature="e#17540#17541#0" expanded="false" />
-                <element signature="e#18157#18158#0" expanded="false" />
-                <element signature="e#18222#18223#0" expanded="false" />
-                <element signature="e#27827#27828#0" expanded="false" />
-                <element signature="e#27887#27888#0" expanded="false" />
-                <element signature="e#33990#33991#0" expanded="false" />
-                <element signature="e#34045#34046#0" expanded="false" />
-                <element signature="e#39693#39710#0" expanded="false" />
-                <element signature="e#47301#47328#0" expanded="false" />
-                <element signature="e#73331#73332#0" expanded="false" />
-                <element signature="e#73379#73380#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PriorityCalculator.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/challenge54/PriorityCalculator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1496">
-              <caret line="91" column="20" lean-forward="false" selection-start-line="91" selection-start-column="20" selection-end-line="91" selection-end-column="20" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -191,8 +161,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/company/Solver.java" />
-        <option value="$PROJECT_DIR$/src/com/challenge79/Main.java" />
         <option value="$PROJECT_DIR$/src/com/util/Reader.java" />
         <option value="$PROJECT_DIR$/src/com/challenge79/Solver.java" />
         <option value="$PROJECT_DIR$/src/com/challenge41/Main.java" />
@@ -242,14 +210,16 @@
         <option value="$PROJECT_DIR$/src/com/challenge56/Main56.java" />
         <option value="$PROJECT_DIR$/src/com/challenge56/Solver56Test.java" />
         <option value="$PROJECT_DIR$/src/com/challenge56/Solver56.java" />
+        <option value="$PROJECT_DIR$/src/com/challenge57/Main57.java" />
+        <option value="$PROJECT_DIR$/src/com/challenge57/Solver57.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1620" />
-    <option name="height" value="920" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -333,6 +303,50 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Euler79" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Euler79" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="challenge57" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Euler79" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Euler79" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="challenge56" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
@@ -348,15 +362,21 @@
     <property name="last_opened_file_path" value="C:/Program Files/Git/bin/git.exe" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\gabor\IdeaProjects\Euler79\src\main\resources" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.challenge57" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.challenge57" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\gabor\IdeaProjects\Euler79\src\main\resources" />
       <recent name="C:\Users\gabor\IdeaProjects\Euler79\src\com\company" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\gabor\IdeaProjects\Euler79\src\main\resources" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -371,7 +391,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main56">
+  <component name="RunManager" selected="Application.Main57">
     <configuration default="false" name="Main50" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -380,26 +400,6 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="com.challenge50.Main50" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="EulerChallenges" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="Main49" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.challenge49.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.challenge49.Main49" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -476,6 +476,26 @@
       </option>
       <envs />
       <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="Main57" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.challenge57.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.challenge57.Main57" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="EulerChallenges" />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
@@ -718,18 +738,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Application.Main50" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Main49" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Main54" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Main56" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.Solver56Test" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Main54" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Main56" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.Solver56Test" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Main57" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Main56" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.Solver56Test" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Main54" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Main50" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Main49" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Main57" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Main56" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.Solver56Test" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Main54" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Main50" />
       </list>
     </recent_temporary>
   </component>
@@ -763,7 +783,14 @@
       <option name="project" value="LOCAL" />
       <updated>1555271299224</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="challenge 56">
+      <created>1555273994501</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1555273994501</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -799,7 +826,8 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1620" height="920" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -811,12 +839,12 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3802469" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3255814" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19014962" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15885417" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -838,7 +866,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="git" />
-    <option name="LAST_COMMIT_MESSAGE" value="git" />
+    <MESSAGE value="challenge 56" />
+    <option name="LAST_COMMIT_MESSAGE" value="challenge 56" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -850,7 +879,7 @@
           <option name="timeStamp" value="15" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="16" />
+      <option name="time" value="17" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -859,20 +888,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/lang/System.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="163">
-          <caret line="109" column="36" lean-forward="false" selection-start-line="109" selection-start-column="36" selection-end-line="109" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/util/Comparator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7327">
-          <caret line="463" column="69" lean-forward="false" selection-start-line="463" selection-start-column="69" selection-end-line="463" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/util/Reader.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
@@ -1179,7 +1194,7 @@
         <state relative-caret-position="1496">
           <caret line="91" column="20" lean-forward="false" selection-start-line="91" selection-start-column="20" selection-end-line="91" selection-end-column="20" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1266,14 +1281,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/challenge56/Main56.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="26" lean-forward="false" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/challenge56/Solver56Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
@@ -1288,6 +1295,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="363">
           <caret line="24" column="53" lean-forward="false" selection-start-line="24" selection-start-column="53" selection-end-line="24" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/challenge56/Main56.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="26" lean-forward="false" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/challenge57/Main57.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="18" column="111" lean-forward="false" selection-start-line="18" selection-start-column="68" selection-end-line="18" selection-end-column="111" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/challenge57/Solver57.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="10" column="55" lean-forward="false" selection-start-line="10" selection-start-column="55" selection-end-line="10" selection-end-column="55" />
           <folding />
         </state>
       </provider>
